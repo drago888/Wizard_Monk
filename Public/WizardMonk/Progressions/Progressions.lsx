@@ -12,7 +12,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Wisdom);Proficiency(Daggers);Proficiency(Quarterstaffs);Proficiency(LightCrossbows);ActionResource(ArcaneRecoveryPoint,1,0);ActionResource(KiPoint,1,0)"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Wizard-Monk"/>
-                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;UnarmoredDefense_Monk;MartialArts_DextrousUnarmedAttacks;MartialArts_UnarmedDamage;MartialArts_BonusUnarmedStrike;Monk_SoundSwitch;FlurryOfBlowsUnlock"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;UnarmoredDefense_Monk;MartialArts_DextrousUnarmedAttacks;MartialArts_UnarmedDamage;MartialArts_BonusUnarmedStrike;Monk_SoundSwitch"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value="SelectSkills(9f3a9f8d-f645-40b5-b36f-fb079b7b805e,2);SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,4,0,,,,AlwaysPrepared);SelectSpells(11f331b0-e8b7-473b-9d1f-19e8e4178d7d,1,0);AddSpells(34c3321d-75ab-4b50-a44d-cbac8705a360,,,,AlwaysPrepared);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)"/>
                     <attribute id="TableUUID" type="guid" value="26301b5e-3b31-4a05-a6c7-fd3b4293824d"/>
@@ -24,7 +24,7 @@
                     <attribute id="IsMulticlass" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Wizard-Monk"/>
-                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;UnarmoredDefense_Monk;MartialArts_DextrousUnarmedAttacks;MartialArts_UnarmedDamage;MartialArts_BonusUnarmedStrike;Monk_SoundSwitch;FlurryOfBlowsUnlock"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;UnarmoredDefense_Monk;MartialArts_DextrousUnarmedAttacks;MartialArts_UnarmedDamage;MartialArts_BonusUnarmedStrike;Monk_SoundSwitch"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="26301b5e-3b31-4a05-a6c7-fd3b4293824d"/>
                     <attribute id="UUID" type="guid" value="cbc538fa-a6d5-4e2b-8c27-cdd89a6c3dee"/>
